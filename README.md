@@ -4,7 +4,6 @@ Python Tutorial, HW, and Solution for Intro to Machine Learning course - EE25737
 
 Instructor: Dr. Hoda Mohammadzade; Fall 2021
 
-
 ### **Python Tutorial 1**: 
 0. Install Python
 1. Using Python as a Calculator
