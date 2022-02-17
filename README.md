@@ -12,7 +12,7 @@ Instructor: Dr. Hoda Mohammadzade; Fall 2021
 3. Data Structure
     * Numeric
     * Strings
-        * Input/Output (I/O)
+    * Input/Output (I/O)
     * List
     * Tuples
     * Sets
